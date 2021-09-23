@@ -1,2 +1,2 @@
 # escrow
-multi-party escrow with responsibility delegation
+smart contract for multi-party escrow with responsibility delegation
